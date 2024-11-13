@@ -4,6 +4,8 @@
 
 This project is a simple **Command Line Interface (CLI)** tool that allows you to fetch and display the **recent activity of a GitHub user** directly in the terminal. It demonstrates how to work with the GitHub API, handle JSON data, and build a CLI application using the Go programming language.
 
+https://roadmap.sh/projects/github-user-activity
+
 ## 🛠️ Features
 
 - Fetches the recent activity of a specified GitHub user.
